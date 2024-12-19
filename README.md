@@ -38,9 +38,9 @@ Here are a few projects I've worked on:
 
 
 ## Practice Platform
-![LeetCode Badge](https://img.shields.io/badge/LeetCode-DSA-Pink?style=flat-square)
-
 I solve Data Structures and Algorithms problems on LeetCode to enhance my programming skills.
+
+![LeetCode Badge](https://img.shields.io/badge/LeetCode-DSA-Pink?style=flat-square)
 
 ## DSA Badge @LeetCode
 ![LeetCode Stats](https://leetcode-badge-showcase.vercel.app/api?username=Priya_Chauhan7)
