@@ -35,7 +35,12 @@ Here are a few projects I've worked on:
 
 ![Priya's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyachauh5&show_icons=true&theme=radical)
 
+## All DSA Badge @LeetCode
+![Uploading 2024-50.gif…]()
+
+
 ## Connect with Me
 
 - [LinkedIn](www.linkedin.com/in/priya-chauhan-4ab971310)
 - [Twitter](https://twitter.com/priyachauh5)
+
