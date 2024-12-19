@@ -40,7 +40,7 @@ Here are a few projects I've worked on:
 
 ## Connect with Me
 
-- [LinkedIn] [www.linkedin.com/in/priya-chauhan-4ab971310] (mailto:priyachauh5@gmail.com)
-- [Twitter] [https://x.com/Priya_Chauhan05) (mailto:Twitter)
+- [LinkedIn](https://www.linkedin.com/in/priya-chauhan-4ab971310)
+- [Twitter](https://x.com/Priya_Chauhan05)
 
 
