@@ -41,7 +41,7 @@ Here are a few projects I've worked on:
 ![Priya's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyachauh5&show_icons=true&theme=radical)
 
 ## Practice Platform
-  ![LeetCode Badge](https://img.shields.io/badge/LeetCode-50+ Problems Solved.-Pink?style=flat-square)
+  ![LeetCode Badge](https://img.shields.io/badge/LeetCode-50+ Problems Solved-Pink?style=flat-square)
 
 ## DSA Badge @LeetCode
    
