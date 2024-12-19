@@ -1,7 +1,9 @@
 # Hi there, I'm Priya Chauhan! 👋
 
 ![Profile views](https://gpvc.arturio.dev/priyachauh5)
-I'm Student of 3rd year
+
+                                                         I'm Student of 3rd year
+
 9+CGPA| Computer Engineering Student | Full Stack Web development| MERN Stack Development, MongoDB, ExpressJS, ReactJS, NodeJS | Java | Aspiring Software Engineer
 
 ## About Me
