@@ -1,8 +1,8 @@
-![MasterHead](https://quotefancy.com/media/wallpaper/3840x2160/8151357-Hello-World-Wallpaper.jpg)
+![MasterHead](https://quotefancy.com/media/wallpaper/3840x2160/18999-Paulo-Coelho-Quote-The-world-is-changed-by-your-example-not-by.jpg)
 
 <h1 align="center">Hi 👋, I'm Priya Chauhan</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
-<img align="right" alt="Coading" width="400" src="https://quotefancy.com/media/wallpaper/3840x2160/18999-Paulo-Coelho-Quote-The-world-is-changed-by-your-example-not-by.jpg">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyachauh5&label=Profile%20views&color=0e75b6&style=flat" alt="priyachauh5" /> </p>
 
@@ -17,6 +17,7 @@
 - 💬 Ask me about **MERN**
 
 - 📫 How to reach me **priyachauh5@gmail.com**
+<img align="right" alt="Coading" width="400" src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/280397990/original/ab45d2a50b9a43e80037a532f5fe24f16142286b/animate-your-composition-quickly-and-efficiently.jpg">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
