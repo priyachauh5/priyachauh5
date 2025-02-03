@@ -9,6 +9,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyachauh5" alt="priyachauh5" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/priya_chauhan05" target="blank"><img src="https://img.shields.io/twitter/follow/priya_chauhan05?logo=twitter&style=for-the-badge" alt="priya_chauhan05" /></a> </p>
+<img align="right" alt="Coading" width="400" src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/280397990/original/ab45d2a50b9a43e80037a532f5fe24f16142286b/animate-your-composition-quickly-and-efficiently.jpg">
+
 
 - 🔭 I’m currently working on **Stock Trading Platform**
 
@@ -17,7 +19,6 @@
 - 💬 Ask me about **MERN**
 
 - 📫 How to reach me **priyachauh5@gmail.com**
-<img align="right" alt="Coading" width="400" src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/280397990/original/ab45d2a50b9a43e80037a532f5fe24f16142286b/animate-your-composition-quickly-and-efficiently.jpg">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
