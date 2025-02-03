@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Priya Chauhan</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
-<img align="right" alt="Coading" witdth="400" src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/280397990/original/ab45d2a50b9a43e80037a532f5fe24f16142286b/animate-your-composition-quickly-and-efficiently.jpg">
+<img align="right" alt="Coading" witdth="200" src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/280397990/original/ab45d2a50b9a43e80037a532f5fe24f16142286b/animate-your-composition-quickly-and-efficiently.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyachauh5&label=Profile%20views&color=0e75b6&style=flat" alt="priyachauh5" /> </p>
 
