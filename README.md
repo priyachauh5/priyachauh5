@@ -1,57 +1,34 @@
-## Hi there, I'm Priya Chauhan! 👋
+![MasterHead](https://quotefancy.com/media/wallpaper/3840x2160/8151357-Hello-World-Wallpaper.jpg)
 
-![Profile views](https://gpvc.arturio.dev/priyachauh5)
+<h1 align="center">Hi 👋, I'm Priya Chauhan</h1>
+<h3 align="center">A passionate Full Stack developer from India</h3>
+<img align="right" alt="Coading" witdth="400" src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/280397990/original/ab45d2a50b9a43e80037a532f5fe24f16142286b/animate-your-composition-quickly-and-efficiently.jpg">
 
- I'm Student of 3rd year                                                      
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyachauh5&label=Profile%20views&color=0e75b6&style=flat" alt="priyachauh5" /> </p>
 
-9+CGPA| Computer Engineering Student | Full Stack Web development| MERN Stack Development, MongoDB, ExpressJS, ReactJS, NodeJS | 
-Java | Aspiring Software Engineer
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyachauh5" alt="priyachauh5" /></a> </p>
 
-## About Me
+<p align="left"> <a href="https://twitter.com/priya_chauhan05" target="blank"><img src="https://img.shields.io/twitter/follow/priya_chauhan05?logo=twitter&style=for-the-badge" alt="priya_chauhan05" /></a> </p>
 
-I'm a passionate software developer with a keen interest in developing scalable web applications and working with emerging technologies. I love to explore new tools and frameworks and constantly improve my coding skills.
+- 🔭 I’m currently working on **Stock Trading Platform**
 
-- 🌱 Currently learning: DSA.
-- 💼 Open to work: Yes, actively looking for new opportunities.
-- 🤝 Open to collaborating on: Open-source projects, hackathons, and innovative startups.
-- 📫 How to reach me: [priyachauh5@gmail.com](mailto:priyachauh5@gmail.com)
+- 🌱 I’m currently learning **DSA**
 
-## Skills
+- 💬 Ask me about **MERN**
 
-- **Languages:** JavaScript, Java, C++
-- **Web Development:** HTML, CSS, React, Node.js, Express.js
-- **Databases:** MongoDB, MySQL
-- **Tools & Platforms:** Git, GitHub
+- 📫 How to reach me **priyachauh5@gmail.com**
 
-## Projects
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/priya_chauhan05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="priya_chauhan05" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/priya-chauhan-4ab971310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/priya-chauhan-4ab971310" height="30" width="40" /></a>
+</p>
 
-Here are a few projects I've worked on:
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-1. **WONDERLUST (https://wanderlust-project-rzjr.onrender.com/listings)**:
-   - Description: Designed a website and Incorporated authentication to ensure 100% secure access and enhance user 
-                  trust. Signup(GET, POST) and signin is successfully implemented along with error handling and 
-                  authorization. User can give review and rating. MongoDB is used for storing the user data. 
-                  MVC(Model View Controller) to Implement Design Pattern and using Mongo Atlas mongo session 
-                  are stored and deployed successfully with render. This project is flexible to user to store their data 
-                  and delete it.
-   - Technologies: React, Node.js, MongoDB, Express.js
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyachauh5&show_icons=true&locale=en&layout=compact" alt="priyachauh5" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyachauh5&show_icons=true&locale=en" alt="priyachauh5" /></p>
 
-## Practice Platform
-I solve Data Structures and Algorithms problems on LeetCode to enhance my programming skills.
-
-![LeetCode Badge](https://img.shields.io/badge/LeetCode-DSA-Pink?style=flat-square)
-
-## DSA Badge @LeetCode
-![LeetCode Stats](https://leetcode-badge-showcase.vercel.app/api?username=Priya_Chauhan7)
-
-## GitHub Stats
-
-![Priya's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyachauh5&show_icons=true&theme=radical)
-
-## Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/priya-chauhan-4ab971310)
-- [Twitter](https://x.com/Priya_Chauhan05)
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyachauh5&" alt="priyachauh5" /></p>
