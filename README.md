@@ -1,7 +1,7 @@
 ![if5fprmm](https://github.com/user-attachments/assets/4880c58a-d388-4029-82eb-ac900c271677)
 
 <h1 align="center">Hi 👋, I'm Priya Chauhan</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center">Passionate about Full Stack developement from India</h3>
 
 
 <p align="left"> 
