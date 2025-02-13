@@ -6,7 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyachauh5&label=Profile%20views&color=0e75b6&style=flat" alt="priyachauh5" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyachauh5" alt="priyachauh5" /></a> </p>
+## GitHub Trophies:
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=priyachauh5&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="priyachauh5" />
+  </a>
+</p>
+
 
 <p align="left"> <a href="https://twitter.com/priya_chauhan05" target="blank"><img src="https://img.shields.io/twitter/follow/priya_chauhan05?logo=twitter&style=for-the-badge" alt="priya_chauhan05" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/280397990/original/ab45d2a50b9a43e80037a532f5fe24f16142286b/animate-your-composition-quickly-and-efficiently.jpg" style="margin-top: 200px">
