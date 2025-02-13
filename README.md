@@ -40,8 +40,9 @@
 ### 📈 GitHub Stats:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyachauh5&show_icons=true&locale=en&theme=tokyonight" alt="priyachauh5" /></p>
 
-## Most Used Languages:
+## 👩‍💻 Most Used Languages:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyachauh5&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="priyachauh5" /></p>
+<hr>
 
 
 <!-- Add Wakatime Productivity Stats -->
