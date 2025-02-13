@@ -38,7 +38,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyachauh5&" alt="priyachauh5" /></p>
 
 <!-- Add Wakatime Productivity Stats -->
-<h3 align="left">Productivity Stats:</h3>
+
 ## Productivity Stats:
 ![priyachauh5's Productivity Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priyachauh5&theme=tokyonight)
 
