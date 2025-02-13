@@ -36,3 +36,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyachauh5&show_icons=true&locale=en" alt="priyachauh5" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyachauh5&" alt="priyachauh5" /></p>
+
+<!-- Add Wakatime Productivity Stats -->
+<h3 align="left">Productivity Stats:</h3>
+<p align="left">
+  <img src="https://wakatime.com/badge/user/9e7c1e6b-c177-4c51-bc4f-c4a96ff1568b.svg" alt="Total coding time" />
+</p>
