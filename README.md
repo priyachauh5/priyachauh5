@@ -1,4 +1,4 @@
-![if5fprmm](https://github.com/user-attachments/assets/4880c58a-d388-4029-82eb-ac900c271677)![if5fprmm](https://github.com/user-attachments/assets/690657b3-afa2-4fc5-b5bb-7226420fec39)![MasterHead](![if5fprmm](https://github.com/user-attachments/assets/e58f9a63-df23-4d8e-8d0f-005ce7eb931e))
+![if5fprmm](https://github.com/user-attachments/assets/4880c58a-d388-4029-82eb-ac900c271677)![if5fprmm](https://github.com/user-attachments/assets/690657b3-afa2-4fc5-b5bb-7226420fec39)
 
 <h1 align="center">Hi 👋, I'm Priya Chauhan</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
