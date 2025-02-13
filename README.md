@@ -39,6 +39,6 @@
 
 <!-- Add Wakatime Productivity Stats -->
 <h3 align="left">Productivity Stats:</h3>
-<p align="left">
-  <img src="https://wakatime.com/badge/user/9e7c1e6b-c177-4c51-bc4f-c4a96ff1568b.svg" alt="Total coding time" />
-</p>
+## Productivity Stats:
+![priyachauh5's Productivity Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priyachauh5&theme=tokyonight)
+
